@@ -1,0 +1,6 @@
+runfile('/Users/mhu/Documents/GitHub/ZIYOU_cochlear/lexicon_lab_ZIYOU.py', wdir='/Users/mhu/Documents/GitHub/ZIYOU_cochlear')
+
+x = Similarity()
+
+x.cosine_similarity('the', 'and', 'word2vec')
+Out[4]: 0.8268025171778501
